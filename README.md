@@ -1,2 +1,4 @@
-# Linear-Regression
-Implemented simple and multiple linear regression using the provided Housing dataset. Performed data preprocessing, trained a model, evaluated using MAE, MSE, and R², and visualized the regression relationship. Includes code, dataset, plot, and documentation.
+# Task 3: Linear Regression
+
+Completed using given Housing.csv dataset.
+Trained model, evaluated with MAE, MSE, R2, and plotted regression graph.
